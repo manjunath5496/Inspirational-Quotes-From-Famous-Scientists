@@ -619,68 +619,69 @@
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(1).pdf" style="text-decoration:none;">Innovation and Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(1).pdf" style="text-decoration:none;">On the Electrodynamics of Moving Bodies</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(2).pdf" style="text-decoration:none;">50 Billion Dollar Boss: African American Women Sharing Stories of Success in Entrepreneurship and Leadership</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(2).pdf" style="text-decoration:none;">Two New Sciences</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(3).pdf" style="text-decoration:none;">Corporate Entrepreneurship</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(4).pdf" style="text-decoration:none;">Corporate Entrepreneurship: Top Managers and New Business Creation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(5).pdf" style="text-decoration:none;">Cultural Entrepreneurship: At the Crossroads of People, Place, and Prosperity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(3).pdf" style="text-decoration:none;">De Humani Corporis Fabrica</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(4).pdf" style="text-decoration:none;"> Ars Magna</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(5).pdf" style="text-decoration:none;">The New Organon: or True Directions Concerning the Interpretation of Nature</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(6).pdf" style="text-decoration:none;">Disciplined Entrepreneurship Workbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(6).pdf" style="text-decoration:none;">The Mind of Primitive Man</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(7).pdf" style="text-decoration:none;">Don't Count on It! : Reflections on Investment Illusions, Capitalism, "Mutual" Funds, Indexing, Entrepreneurship, Idealism, and Heroes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(7).pdf" style="text-decoration:none;">Discourse on the Method of Rightly Conducting the Reason, and Seeking Truth in the Sciences</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(8).pdf" style="text-decoration:none;">Economic Development Through Entrepreneurship</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(9).pdf" style="text-decoration:none;">Emerging Paradigms in International Entrepreneurship</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(10).pdf" style="text-decoration:none;">Employee to Entrepreneur: How to Earn Your Freedom and Do Work That Matters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(8).pdf" style="text-decoration:none;">Anatomical Studies on the Motion of the Heart and Blood</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(9).pdf" style="text-decoration:none;">Experiments and Observations on Electricity</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(10).pdf" style="text-decoration:none;">On the Revolutions of the Heavenly Spheres</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(11).pdf" style="text-decoration:none;">Enterprise: Entrepreneurship and Innovation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(11).pdf" style="text-decoration:none;">The Galvanic Circuit Investigated Mathematically</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(12).pdf" style="text-decoration:none;">Entrepreneurship and Small Business Management in the Hospitality Industry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(12).pdf" style="text-decoration:none;">Harmonies of the World</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(13).pdf" style="text-decoration:none;"> Entrepreneurship and Growth in Local, Regional and National Economies</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(14).pdf" style="text-decoration:none;"> Entrepreneurship and Innovation: Global Insights from 24 Leaders</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(15).pdf" style="text-decoration:none;">Entrepreneurship and Innovations in E-Business: An Integrative Perspective</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(13).pdf" style="text-decoration:none;"> The Structure of Scientific Revolutions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(14).pdf" style="text-decoration:none;"> On Formally Undecidable Propositions of Principia Mathematica and Related Systems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(15).pdf" style="text-decoration:none;">Systema Naturae</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(16).pdf" style="text-decoration:none;">Entrepreneurship and Openness</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(16).pdf" style="text-decoration:none;">Mathematical Foundations of Quantum Mechanics</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(17).pdf" style="text-decoration:none;">Entrepreneurship And Smes in the Euro-zone: Towards a Theory of Symbiotic Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(17).pdf" style="text-decoration:none;">A Treatise on Electricity and Magnetism: Vol.1</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(18).pdf" style="text-decoration:none;">Entrepreneurship for Engineers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(19).pdf" style="text-decoration:none;">Handbook of qualitative research methods in entrepreneurship</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(20).pdf" style="text-decoration:none;">Entrepreneurship in the Region</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(18).pdf" style="text-decoration:none;">A Treatise on Electricity and Magnetism: Vol.2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(19).pdf" style="text-decoration:none;">Micrographia</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(20).rar" style="text-decoration:none;">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(21).pdf" style="text-decoration:none;">Entrepreneurship Lessons for Success</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(21).pdf" style="text-decoration:none;">On the Origin of Species</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(22).pdf" style="text-decoration:none;">Social Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(22).pdf" style="text-decoration:none;">Theory of the Earth</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(23).pdf" style="text-decoration:none;">The Theory and Practice of Entrepreneurship</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(24).pdf" style="text-decoration:none;">Entrepreneurship: A Very Short Introduction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(25).pdf" style="text-decoration:none;">Entrepreneurship: An international introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(23).pdf" style="text-decoration:none;">The Sceptical Chymist</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(24).pdf" style="text-decoration:none;">Principles of Geology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(25).pdf" style="text-decoration:none;">De Re Metallica</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(26).pdf" style="text-decoration:none;">Entrepreneurship: Owning Your Future</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(26).pdf" style="text-decoration:none;">The Physical Geography of the Sea</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(27).pdf" style="text-decoration:none;">Entrepreneurship: The Practice and Mindset</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(27).pdf" style="text-decoration:none;">Sidereus Nuncius</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(28).pdf" style="text-decoration:none;">Entrepreneurship</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(29).pdf" style="text-decoration:none;">Global Entrepreneurship and the Successful Growth Strategies of Early-Stage Companies</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(30).pdf" style="text-decoration:none;">Handbook of Entrepreneurship Development </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(28).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(29).pdf" style="text-decoration:none;">Experiments with Alternate Currents of High Potential and High Frequency</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(30).pdf" style="text-decoration:none;">The Analytical Theory of Heat</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(31).pdf" style="text-decoration:none;">Handbook of Entrepreneurship Research: Disciplinary Perspectives</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(31).pdf" style="text-decoration:none;">The Descent of Man, and Selection in Relation to Sex</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(32).pdf" style="text-decoration:none;">Harvard Business Review On Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(32).rar" style="text-decoration:none;">The Principia: Mathematical Principles of Natural Philosophy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(33).pdf" style="text-decoration:none;">The Impact of Entrepreneurship Education: An Evaluation of the Berger Entrepreneurship Program at the University of Arizona, 1985-1999</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(34).pdf" style="text-decoration:none;">Industry 4.0: Entrepreneurship and Structural Change in the New Digital Landscape</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(35).pdf" style="text-decoration:none;">Innovation and Entrepreneurship: Theory, Policy and Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(33).pdf" style="text-decoration:none;">The Principles of Quantum Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(34).pdf" style="text-decoration:none;">The Principles Of Psychology: Volume I</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(35).pdf" style="text-decoration:none;">The Principles Of Psychology: Volume II</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(36).pdf" style="text-decoration:none;">Introduction to Entrepreneurship</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(37).pdf" style="text-decoration:none;">Introduction to Social Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(36).pdf" style="text-decoration:none;">Treatise on Light</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Inspirational-Quotes-From-Famous-Scientists/blob/master/obg(37).pdf" style="text-decoration:none;">The Foundation of the Generalised Theory of Relativity</a></li>
 
 
 </ul> 
+</br>
