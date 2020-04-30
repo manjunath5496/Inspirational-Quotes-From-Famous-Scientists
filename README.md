@@ -323,7 +323,7 @@
 <p>Death: Feb. 15, 1988, Los Angeles, California</p>
 <p>Known for: Quantum Electrodynamics</p>
 <blockquote><em>"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."</em></blockquote>
-<blockquote><em>―&nbsp;Richard Feynmann</em></blockquote>
+<blockquote><em>―&nbsp;Richard Feynman</em></blockquote>
 <p><strong>[53] Alfred Lothar Wegener</strong></p>
 <p>Birth: Nov. 1, 1880, Berlin, Germany</p>
 <p>Death: Nov. 1930, Greenland</p>
